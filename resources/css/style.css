@@ -1,0 +1,17 @@
+.bg-custom {
+    background-image: url('../../public/bg.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.7;
+}   
+
+.title {
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.height-custom{
+    height: 40vh;
+}
